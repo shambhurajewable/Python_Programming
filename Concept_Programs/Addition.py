@@ -1,0 +1,9 @@
+print("Enter the First Number :")
+No1 = input()
+
+print("Enter the Second Number :")
+No2 = input()
+
+Ans = No1 + No2
+
+print("Addition is :",Ans)
